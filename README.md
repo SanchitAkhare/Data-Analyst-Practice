@@ -17,18 +17,29 @@ To build a career in Data Analytics and Data Science, where I can apply analytic
 
 💻 Programming & Querying
 Python (Pandas, NumPy – Beginner Level)
+
 SQL (Joins, Aggregations, Filtering)
+
 📊 Data Analysis & Visualization
+
 Data Cleaning & Preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Data Visualization (Matplotlib)
+
 🤖 Data Science Basics
 Machine Learning (Beginner)
+
 Object Detection using OpenCV
+
 Basic Model Understanding
+
 ⚙️ Tools
 Jupyter Notebook
+
 VS Code
+
 Git & GitHub
 
 
@@ -36,41 +47,54 @@ Git & GitHub
 
 🔹 Data Analysis Project (Sales / Business Data)
 Performed data cleaning and preprocessing
+
 Conducted EDA to identify trends and patterns
+
 Visualized insights using charts
 
 
 🔹 Object Detection System
 Built using Python & OpenCV
+
 Detects multiple objects in real-time
+
 Demonstrates practical application of computer vision
 
 
 🔹 Dataset-Based Analysis Project
 Worked with structured datasets
+
 Applied SQL queries and Python analysis
+
 Generated insights and reports
 
 
 📚 Currently Learning
 
 Advanced SQL
+
 Data Visualization (Power BI / Tableau)
+
 Machine Learning (Scikit-learn)
+
 Statistics for Data Science
 
 
 📊 Key Strengths
 
 Analytical Thinking
+
 Problem Solving
+
 Attention to Detail
+
 Data Interpretation
 
 
 📫 Connect With Me
 
 📧 Email: sanchitakhare98@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/sanchit-akhare
 
 
