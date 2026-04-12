@@ -44,20 +44,27 @@ Demonstrates practical application of computer vision
 Worked with structured datasets
 Applied SQL queries and Python analysis
 Generated insights and reports
+
+
 📚 Currently Learning
 Advanced SQL
 Data Visualization (Power BI / Tableau)
 Machine Learning (Scikit-learn)
 Statistics for Data Science
+
+
 📊 Key Strengths
 Analytical Thinking
 Problem Solving
 Attention to Detail
 Data Interpretation
-📫 Connect With Me
-📧 Email: your-email@example.com
-💼 LinkedIn: Add your LinkedIn profile here
-⚡ Fun Fact
 
+
+📫 Connect With Me
+📧 Email: sanchitakhare98@gmail.com
+💼 LinkedIn: www.linkedin.com/in/sanchit-akhare
+
+
+⚡ Fun Fact
 I enjoy finding patterns in data and turning them into actionable insights that support smarter decisions.
 
