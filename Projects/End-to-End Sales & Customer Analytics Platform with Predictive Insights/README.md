@@ -43,7 +43,8 @@ sales-analytics-platform/
 
 ## 📊 Dashboard Preview
 
-(Add your screenshot here after uploading)
+<img width="1304" height="739" alt="Screenshot 2026-04-24 151713" src="https://github.com/user-attachments/assets/e80cb24f-1065-4d21-88cc-6c3975b31218" />
+
 
 ---
 
