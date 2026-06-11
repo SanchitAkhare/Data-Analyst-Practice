@@ -1,0 +1,123 @@
+📊 Diwali Sales Analysis
+📌 Project Overview
+
+This project performs Exploratory Data Analysis (EDA) on Diwali sales data to identify customer purchasing behavior and business insights.
+
+Using Python and data visualization libraries, this analysis explores:
+
+Customer demographics
+Purchase behavior
+Sales trends
+Product performance
+Regional analysis
+
+The goal is to understand which customer segments contribute most to sales during the Diwali season.
+
+🚀 Features
+
+✔ Data Cleaning and Preprocessing
+✔ Handling Missing Values
+✔ Data Type Conversion
+✔ Exploratory Data Analysis (EDA)
+✔ Visualizations using Matplotlib & Seaborn
+✔ Customer Purchase Pattern Analysis
+
+🛠 Tech Stack
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+
+
+📂 Project Structure
+Diwali-Sales-Analysis/
+│
+├── data/
+│   └── Diwali Sales Data.csv
+│
+├── notebooks/
+│   └── Diwali_Sales_Analysis.ipynb
+│
+├── images/
+│   ├── gender_analysis.png
+│   ├── age_analysis.png
+│   ├── state_sales.png
+│   └── occupation_analysis.png
+│
+├── README.md
+└── requirements.txt
+
+📥 Dataset
+
+Dataset contains:
+
+Gender
+Age Group
+State
+Marital Status
+Occupation
+Orders
+Amount
+Product Category
+🔍 Data Cleaning Steps
+Removed unnecessary columns
+Checked null values
+Removed missing data
+Converted Amount column datatype
+Performed descriptive analysis
+
+Example:
+
+df.drop(['Status', 'unnamed1'], axis=1, inplace=True)
+df.dropna(inplace=True)
+df['Amount'] = df['Amount'].astype('int')
+
+
+📈 Exploratory Data Analysis
+Gender Analysis
+Female customers contributed more to total sales.
+Female purchasing power was higher than male customers.
+Age Analysis
+Majority of buyers belonged to 26–35 years age group.
+State Analysis
+
+Top contributing states:
+Uttar Pradesh
+Maharashtra
+Karnataka
+Marital Status Analysis
+Married women contributed significantly to sales.
+Occupation Analysis
+
+Top customer occupations:
+IT
+Healthcare
+Aviation
+Product Category Analysis
+
+Most sold categories:
+Food
+Clothing
+Electronics
+
+🏆 Key Insights
+Married women aged 26–35 years
+Customers from UP, Maharashtra, Karnataka
+Working in IT, Healthcare, Aviation
+Prefer purchasing:
+Food
+Clothing
+Electronics
+
+
+👨‍💻 Author
+
+Sanchit Akhare
+
+Data Analyst | Python | SQL | Power BI | PySpark
+
+GitHub: github.com/SanchitAkhare
+
+LinkedIn: linkedin.com/in/sanchit-akhare
