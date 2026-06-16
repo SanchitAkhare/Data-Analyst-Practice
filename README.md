@@ -16,9 +16,9 @@ To build a career in Data Analytics and Data Science, where I can apply analytic
 🧠 Skills & Technologies
 
 💻 Programming & Querying
-Python (Pandas, NumPy – Beginner Level)
+Python (Pandas, NumPy)
 
-SQL (Joins, Aggregations, Filtering)
+SQL (Windows Function, Joins, Aggregations, Filtering)
 
 📊 Data Analysis & Visualization
 
@@ -26,7 +26,7 @@ Data Cleaning & Preprocessing
 
 Exploratory Data Analysis (EDA)
 
-Data Visualization (Matplotlib)
+Data Visualization 
 
 🤖 Data Science Basics
 Machine Learning (Beginner)
